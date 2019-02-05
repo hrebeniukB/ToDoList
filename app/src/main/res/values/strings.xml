@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="action_settings">Clear all</string>
+    <string name="action_test">Show DB</string>
+    <string name="title_activity_create">Create task</string>
+    <string name="title_activity_dbtest">Full DB</string>
+</resources>
